@@ -1,0 +1,10 @@
+Note for Faculty
+
+- I wanted to inform you that I couldn't implement multithreading in this project due to technical limitations with my personal computer.
+- Despite repeated efforts, the multithreaded version caused unexpected behavior and system instability, likely due to hardware or software compatibility issues.
+- As a result, I chose to implement a single-threaded version to maintain program reliability and correctness.
+- I am aware that multithreading was a preferred component, but I prioritized creating a robust solution that fulfills all other requirements.
+- This current single-threaded implementation still effectively achieves the main objectives of text analysis and book comparison.
+  
+Thanking you
+Arnab Kr Pal
